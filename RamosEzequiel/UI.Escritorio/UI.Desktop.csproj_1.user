@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Sections\About\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Main\Admin\AddUser\addUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Main\Admin\DeleteUser\deleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Main\Admin\ModUser\modifyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Main\User\frmMainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\PreLogin\frmPreLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections\Main\Admin\frmMainAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
